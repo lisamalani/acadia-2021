@@ -1,0 +1,22 @@
+{
+  "name": "acadia2021",
+  "version": "1.0.0",
+  "description": "trial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisamalani/acadia2021.git"
+  },
+  "author": "Lisa Malani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisamalani/acadia2021/issues"
+  },
+  "homepage": "https://github.com/lisamalani/acadia2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
